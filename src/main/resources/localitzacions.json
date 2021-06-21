@@ -1,0 +1,246 @@
+{
+  "locations":
+  [
+    {
+      "name": "Sagrada Família",
+      "coordinates": [2.174400, 41.403475],
+      "description": "Famosa església inacabada iniciada la dècada de 1880, amb un museu i vistes de la ciutat.",
+      "architect": "Antoni Gaudí i Cornet",
+      "inauguration": 2026
+    },
+    {
+      "name": "Plaça Catalunya",
+      "coordinates": [2.170079, 41.386878],
+      "description": "La plaça de Catalunya és la més cèntrica i gran de les places de Barcelona. Constitueix el punt d'unió \nentre el nucli antic de la ciutat i l'Eixample. D'aquí parteixen importants vies de la ciutat com la Rambla, \nel passeig de Gràcia, la rambla de Catalunya, les rondes de la Universitat i de Sant Pere i el carrer Pelai, \nigual com l'avinguda del Portal de l'Àngel, la gran artèria comercial de la ciutat, i antiga porta de \nles muralles."
+    },
+    {
+      "name": "Can Punyetes",
+      "coordinates": [2.159704, 41.398694],
+      "description": "Restaurant de cuina catalana.",
+      "characteristics": ["Acollidor", "Informal", "Està bé per als nens"]
+    },
+    {
+      "name": "Traphouse",
+      "coordinates": [2.165150, 41.405290],
+      "description": "Casa reconeguda principalment per les cançons que es composen aquí. Els veïns són una delícia, \nmai es queixen del xivarri que hi ha."
+    },
+    {
+      "name": "Lloc de Socis",
+      "coordinates": [2.166506, 41.402617],
+      "description": "Si alguna vegada vols ser soci d'un club on la gent s'ho passa molt bé, aquest és el lloc \non has d'anar. No te'n penediràs!"
+    },
+    {
+      "name": "Adoquín Square",
+      "coordinates": [2.172804, 41.388794],
+      "description": "Plaça coneguda pels jocs lúdics que s'organitzen. Es poden fer des de partides de Minecraft fins al \njoc de la manguera d'aigua. També s'ofereix servei de barbacoa."
+    },
+    {
+      "name":"Hotel Catalonia Fira",
+      "coordinates": [2.123114, 41.347584],
+      "description": "Renaissance Barcelona Fira Hotel is conveniently located in Barcelona’s Plaza Europa Square, next \nto the Fira Convention Centre Comprised two 110 metre towers joined by a spectacular \npanoramic restaurant and a terrace-vantage point with views over the city of Barcelona.",
+      "stars": 4
+    },
+    {
+      "name": "La calle bota fuego",
+      "coordinates": [2.174296, 41.387274],
+      "description": "Y e' que la calle bota\nFuego, fuego (Fire, fire)\nFuego, fuego (Fire, fire)\nFuego, fuego (Fire, fire)\nFuego, fuego\nY e' que la calle bota\nFuego, fuego (Fire, fire)\nFuego, fuego (Fire, fire)\nFuego, fuego (Fire, fire)\nFuego, fuego (Uh)\nArdiente, caliente, ardiente, caliente\nArdiente, caliente, ardiente, caliente\nArdiente, caliente, ardiente, caliente\nArdiente, caliente"
+    },
+    {
+      "name": "Centre d'estudi d'Aus",
+      "coordinates": [2.125632, 41.395536],
+      "description": "Des d'aquest centre, considerem vital donar a conèixer el valor de la biodiversitat urbana, \naprendre a observar-la, reconèixer-la i gaudir-la. I volem convertir l'àguila, com a emblema \nd'aquesta biodiversitat, en l'au que atregui l'atenció de ciutadans, administracions i entitats \nque poden col·laborar en la conservació i millora de tota la biodiversitat urbana."
+    },
+    {
+      "name": "Presó municipal de Sarrià-Sant Gervasi",
+      "coordinates": [2.129992, 41.408541],
+      "description": "Molta gent porta aquí més anys del que és habitual..."
+    },
+    {
+      "name": "University",
+      "coordinates": [-71.116660,42.377002],
+      "description": "Universitat on es va graduar el jove de Ciudad Real Angel Mejias (Jordi pels amics), que va \ndescobrir la vacuna contra la febre H1N1."
+    },
+    {
+      "name": "Torres Bessones",
+      "coordinates": [2.196040, 41.388779],
+      "description": "Inicialment anaven a ser dos grans hotels. Aquests dos edificis de 153 metres d'alçada enmarquen \nsimètricament el final del Carrer de la Marina, al davant de la gran font monumental projectada \nper l'arquitecte José María Mercè. A diferència d'altres torres, aquestes no tenen incorporat \ncap aeroport dintre dels edificis."
+    },
+    {
+      "name": "Els búnkers",
+      "coordinates": [2.161647,41.419242],
+      "description": "Lloc típic de Barcelona. Si algún cop vols portar algú aquí, pensat-ho dos cops, hi ha llocs més macos."
+    },
+    {
+      "name": "Miami Beach",
+      "coordinates": [-80.130045, 25.790654],
+      "description": "Miami Beach és una illa connectada amb la ciutat de Miami per una sèrie de ponts. Té una població \nllatinoamericana enorme i l'espanyol és una llengua usada sovint per al discurs quotidià \nen molts llocs, encara que l'anglès és la llengua oficial, especialment en l'àmbit dels negocis \ni de el govern."
+    },
+    {
+      "name": "Old House",
+      "coordinates": [2.168932,41.406449],
+      "description": "Antiga casa d'un becari on els veïns flipaven amb tot el que passava."
+    },
+    {
+      "name": "Plaça gironina",
+      "coordinates": [2.820369, 41.983728],
+      "description": "Plaça on els joves d'aquesta ciutat els caps de setmana es reuneixen per aprofunditzar l'assignatura \nde química, concretament el tema 1: La ratafia."
+    },
+    {
+      "name": "Muerde La Pasta",
+      "coordinates": [2.079087, 41.347584],
+      "description": "Restaurant de cuina italiana. De part dels becaris un dia no esmorzeu res i aneu allà per dinar al \nbuffet lliure, amb begudes il·limitades i postres il·limitades, com gofres amb xocolata.",
+      "characteristics": ["Bufet lliure","Acollidor", "Informal"]
+    },
+    {
+      "name":"SmartRoom Barcelona Hotel",
+      "coordinates": [2.136926, 41.372018],
+      "description": "Som un hotel ecològic i amb una excel·lent relació qualitat preu, amb habitacions modernes i \nfuncionals, totes amb lavabo privat. Dissenyat amb un estil net i minimalista.",
+      "stars": 2
+    },
+    {
+      "name":"Parc del Forum",
+      "coordinates": [2.225751, 41.409534],
+      "description": "El Parc del Fòrum és un recinte de la ciutat de Barcelona que fou construït per al Fòrum \nUniversal de les Cultures 2004 i on actualment es fan diferents actes i espectacles al llarg de l'any."
+    },
+    {
+      "name":"El Pirulí",
+      "coordinates": [2.189530, 41.403510],
+      "description": "Autodescriptiu. També hi ha altres formes d'anomenar-lo."
+    },
+    {
+      "name": "Laberint d'Horta",
+      "coordinates": [2.145797,41.440236],
+      "description": "Si un dia la teva casa està ocupada i desitges passar temps amb algú, aquest parc \nde nit està bastant bé i ningú et molestarà en el teu treball en grup."
+    },
+    {
+      "name":"La Maquinista",
+      "coordinates": [2.198403, 41.440696],
+      "description": "La Maquinista és un centre comercial situat en el districte barceloní de Sant Andreu inaugurat el \n14 de juny de 2000."
+    },
+    {
+      "name":"Hotel Xandri",
+      "coordinates": [2.178837, 41.394215],
+      "description": "Hotel on el recepcionista està tota l'estona pendent que no toquis el piano que hi ha i no \nllencis res per la finestra. També celebren molt la festivitat de Pasqua amagant \nous per l'hotel. A l'hora de sortir no tanquis la porta que potser les claus estan dintre i la lies.",
+      "stars": 3
+    },
+    {
+      "name":"La Terre Ferme",
+      "coordinates": [2.198403, 41.440696],
+      "description": "Lloc on es pon el sol i neixen els somnis. És sens dubte la millor regió de Catalunya i potser \ndel món. S'està considerant de declarar-la com a patrimoni de la humanitat. \nLloc de procedència dels becaris més guapos"
+    },
+    {
+      "name":"Tabac",
+      "coordinates": [1.523735, 42.509565],
+      "description":"Moltes facilitats a l'hora de fer-se una compta bancària, ho recomano. 10/10 -J.P."
+    },
+    {
+      "name":"Recinte Modernista de l'Hospital de Sant Pau",
+      "coordinates": [2.174293, 41.413678],
+      "description": "Edificat com a un centre hospitalari modern i innovador, al cap de cent anys ha deixat de complir \namb aquestes funcions, que van ser traslladades, a partir del 2009, a un \nnou hospital dins del mateix perímetre del recinte en sintonia amb les necessitats del segle XXI.",
+      "architect": "Lluís Domènech Muntaner",
+      "inauguration": 1930
+    },
+    {
+      "name":"El Tibidabo",
+      "coordinates": [2.118679, 41.422360],
+      "description": "Bon lloc per pujar a una atracció i acabar baixant tot Collserola."
+    },
+    {
+      "name":"Torre de Collserola",
+      "coordinates": [2.118679, 41.422360],
+      "description": "La promotora del projecte i actual propietària és la Societat Anònima Torre de Collserola \n(els seus accionistes són Telefónica amb un 30,40%, Retevisión, amb un 41,75%, \nel Centre de Telecomunicacions i Tecnologies de la Informació de la Generalitat de Catalunya amb un 22,85% i \nl'Entitat Metropolitana del Transport amb un 5%)."
+    },
+    {
+      "name":"Mina Wario",
+      "coordinates": [2.221822, 41.417194],
+      "description": "La Mina és un barri de Sant Adrià de Besòs, que limita amb el municipi de Barcelona."
+    },
+    {
+      "name": "König Barcelona Centre",
+      "coordinates": [2.167685, 41.387664],
+      "description": "Restaurant perfecte per anar a prendre unes braves i unes hamburgueses després d'haver vist a l'esecretary \nel suspès del punt de control de mates. Potser no ets sentiràs millor però segur que se't passa la gana",
+      "characteristics": ["Menjar fins a la matinada", "Esmorzar", "Terrassa exterior"]
+    },
+    {
+      "name":"Platja del Bollull",
+      "coordinates": [-16.518465, 28.418623],
+      "description": "Platja no racista."
+    },
+    {
+      "name":"Muro",
+      "coordinates": [3.056731, 39.737429],
+      "description": "Donald Trump likes this place."
+    },
+    {
+      "name": "Givespity House",
+      "coordinates": [2.138939,41.401298],
+      "description": "Casa on segons el germà mitjà hi ha una tirania. Aquest germà, inicialment era taronja, després va \nser vermell i ara és lila però amb desgana. Qui sap si properament serà groc..."
+    },
+    {
+      "name":"Castelldefels",
+      "coordinates": [1.982080, 41.286385],
+      "description": "Messi likes this place."
+    },
+    {
+      "name": "La Pedrera",
+      "coordinates": [2.161961,41.395380],
+      "description": "Arquitectònicament és considerada una obra innovadora en comptar amb una estructura de columnes \ni plantes lliures de murs de càrrega. De la mateixa manera, la façana \n–totalment de pedra– és autoportant, és a dir, no ha de suportar càrregues de les plantes. Un altre element \ninnovador va ser la construcció del garatge soterrat.",
+      "architect": "Antoni Gaudí i Cornet",
+      "inauguration": 1912
+    },
+    {
+      "name": "Museu de la Xocolata",
+      "coordinates": [2.181760,41.387053],
+      "description": "Augustus Gloop després d'anar a la fàbrica de Willy Wonka va venir a Barcelona per fundar aquest museu."
+    },
+    {
+      "name":"Pl. Espanya",
+      "coordinates": [2.149136, 41.375008],
+      "description": "Zona amb més potats per metre quadrat durant els últims dies de Setembre."
+    },
+    {
+      "name":"Casa de l'oncle Charles",
+      "coordinates": [4.384272, 50.712093],
+      "description": "En aquesta casa es fan moltes trapelleries. El millor amic d'en Charles, en Peter, té moltes ansies \nd'anar-lo a veure."
+    },
+    {
+      "name":"Hotel Submarí",
+      "coordinates": [2.202157, 41.381965],
+      "description": "Hotel que es troba en mig del mar. No té cap cost, l'únic que millor no quedar-se a dormir que potser \nal dia següent no despertes.",
+      "stars": 1
+    },
+    {
+      "name":"Museu Nacional d'Art de Catalunya",
+      "coordinates": [2.153401, 41.368306],
+      "description": "És un museu d'art a la ciutat Barcelona que agrupa totes les arts amb la missió de conservar i\nexhibir la col·lecció d'art català més important del món."
+    },
+    {
+      "name":"ESADE",
+      "coordinates": [2.115061, 41.394820],
+      "description": "Es fa competència en mites per metre quadrat amb la Salle Campus Barcelona"
+    },
+    {
+      "name":"Club municipal del pica paret",
+      "coordinates": [2.196040, 41.388779],
+      "description" : "Bon lloc per jugar amb els teus companys al mític joc del pica-paret. Vigila no perdis!"
+    },
+    {
+      "name": "Pim Pam Burger Bonanova",
+      "coordinates": [2.132436, 41.404855],
+      "description": "Hamburgueses a foc lent i patates fregides casolanes per menjar en un local de tamborets alts \no per endur-se.",
+      "characteristics": ["Informal", "Està bé per als nens"]
+    },
+    {
+      "name": "Can Xus",
+      "coordinates": [2.161302, 41.430786],
+      "description": "Cuina mediterrània en la típica fonda d'un casalot del segle XIX amb acabat rústic de pedra i tocs de rajola.",
+      "characteristics": ["Acollidor", "Informal", "Està bé per als nens"]
+    },
+    {
+      "name":"Hotel W",
+      "coordinates": [2.190109, 41.368762],
+      "description": "Hotel més famós de Barcelona definit per la seva forma de vela. A dins t'hi pots trobar de tot\n menys Barcelonins. Ha estat galardonat amb el premi per més mites per metre quadrat de la ciutat, \nprecedit per La Salle Campus Barcelona",
+      "stars": 5
+    }
+  ]
+}
